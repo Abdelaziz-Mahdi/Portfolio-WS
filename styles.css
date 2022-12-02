@@ -3,7 +3,7 @@
 .fnt1 {
   /* My Logo */
 
-  font-family: "Poppins";
+  font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 18px;
@@ -14,7 +14,7 @@
 .fnt2 {
   /* Header / 2 */
 
-  font-family: "Poppins";
+  font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 40px;
@@ -25,7 +25,7 @@
 .fnt3 {
   /* Body / 2 */
 
-  font-family: "Poppins";
+  font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -36,7 +36,7 @@
 .fnt4 {
   /* Body / 2 - Bolder */
 
-  font-family: "Poppins";
+  font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -68,4 +68,34 @@
   /* Primary/B300 */
 
   color: #7f8cff;
+}
+
+.clr5 {
+  /* White */
+
+  color: white;
+}
+
+.clr6 {
+  /* Neutrals/N100 */
+
+  color: #7a869a;
+}
+
+.clr7 {
+  /* Neutrals/N700 */
+
+  color: #253858;
+}
+
+.clr8 {
+  /* Neutrals/N60 */
+
+  color: #b3bac5;
+}
+
+.clr8 {
+  /* Black */
+
+  color: black;
 }
