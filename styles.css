@@ -1,3 +1,71 @@
-.header {
-  color: olive;
+/* fonts */
+
+.fnt1 {
+  /* My Logo */
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 20px;
+  /* identical to box height, or 111% */
+}
+
+.fnt2 {
+  /* Header / 2 */
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 52px;
+  /* or 130% */
+}
+
+.fnt3 {
+  /* Body / 2 */
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  /* or 150% */
+}
+
+.fnt4 {
+  /* Body / 2 - Bolder */
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height, or 150% */
+}
+
+/* colors */
+
+.clr1 {
+  /* Primary/B400 */
+
+  color: #6070ff;
+}
+
+.clr2 {
+  /* Neutrals/N800 */
+
+  color: #172b4d;
+}
+
+.clr3 {
+  /* Neutrals/N600 */
+
+  color: #344563;
+}
+
+.clr4 {
+  /* Primary/B300 */
+
+  color: #7f8cff;
 }
